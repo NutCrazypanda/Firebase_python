@@ -11,3 +11,9 @@ firebaseConfig = {
   }
 
 firebase=pyrebase.initialize_app(firebaseConfig)
+
+firebase_db=firebase.database()
+
+#Insert Data
+firebase_db={"Name":"Nut-Crazypanda","Game":"Battlefield V", "Weapons":["STG-44", "Lung mine"]}
+print(firebase_db.push(data)) #unique key is generated
