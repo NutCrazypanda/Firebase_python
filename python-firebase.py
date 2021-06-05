@@ -18,3 +18,11 @@ firebase_db=firebase.database()
 #Insert Data
 data={"Name":"Nut-Crazypanda","Game":"Battlefield V", "Weapons":["STG-44", "Lung mine"]}
 print(firebase_db.push(data)) #unique key is generated
+
+#Create your own key
+data={"Game":"Battlefield V", "Weapons":["STG-44", "Lung mine"]}
+firebase_db.child("BlackICE").set(data)
+
+#Create your own key + paths with child
+data={"Name":"Nut-Crazypanda","Game":"Battlefield V", "Weapons":["STG-44", "Lung mine"]}
+firebase_db.child("PC").child("Game").child("Origin").set(data)
