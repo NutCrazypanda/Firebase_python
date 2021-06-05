@@ -29,7 +29,12 @@ To test requirement module RUN python and import pyrebase.
 
 ![image](https://user-images.githubusercontent.com/56244402/120884097-1db0d480-c60b-11eb-8392-c962b7a5dc6f.png)
 
-# Insert database
+# Insert data
+![image](https://user-images.githubusercontent.com/56244402/120884321-b8f67980-c60c-11eb-9664-f9a89c613978.png)
+
+![image](https://user-images.githubusercontent.com/56244402/120884310-a714d680-c60c-11eb-8bf2-074e50f39ef3.png)
+
+
 
 
 # Refference
