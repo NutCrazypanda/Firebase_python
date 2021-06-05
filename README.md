@@ -20,13 +20,14 @@ To test requirement module RUN python and import pyrebase.
 
 **value in firebaseConfig {...} will be use in python.
 
-## Connect with python
-
-![image](https://user-images.githubusercontent.com/56244402/120883396-1c7da880-c607-11eb-8830-08c77ff34475.png)
-
 ## Create Real time database
 
 ![image](https://user-images.githubusercontent.com/56244402/120883472-9ca40e00-c607-11eb-8e0b-d9b62b9925d4.png)
+
+## Connect with python
+![image](https://user-images.githubusercontent.com/56244402/120884127-3caf6680-c60b-11eb-830b-a16b7576966a.png)
+
+![image](https://user-images.githubusercontent.com/56244402/120884097-1db0d480-c60b-11eb-8392-c962b7a5dc6f.png)
 
 
 # Refference
